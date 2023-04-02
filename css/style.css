@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/w-qjCHPZbeXCQ-unsplash.jpg);
+}
+
+h3,h2,h1 {
+    color: brown;
+    font-style: italic;
+    font-family: cursive;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
